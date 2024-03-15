@@ -1,0 +1,6 @@
+export funtion Home(){
+    return(
+        <>
+        </>
+    )
+}
